@@ -8,5 +8,9 @@
 			"scriptName":"1P_unique_quest.rex",
 			"path":"somsoo1234/license_list/main/1P_unique_quest.rex.json",
 		},
+		{
+			"scriptName":"1P_unique_gacha.rex",
+			"path":"teerawat-kruelit/1P_whitelist.rex/main/1P_unique_gacha.rex.json",
+		},
 	]
 }
