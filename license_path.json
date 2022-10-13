@@ -16,5 +16,9 @@
 			"scriptName":"1P_test_drift",
 			"path":"somsoo1234/license_list/main/1P_test_drift.json",
 		},
+		{
+			"scriptName":"1P_stocking_cars",
+			"path":"somsoo1234/license_list/main/1P_stocking_cars.json",
+		},
 	]
 }
