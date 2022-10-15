@@ -20,5 +20,9 @@
 			"scriptName":"1P_stocking_cars",
 			"path":"somsoo1234/license_list/main/1P_stocking_cars.json",
 		},
+		{
+			"scriptName":"1P_over_door_lock",
+			"path":"somsoo1234/license_list/main/1P_over_door_lock.json",
+		},
 	]
 }
