@@ -32,5 +32,9 @@
 			"scriptName":"1P_addon_effect_weapons",
 			"path":"somsoo1234/license_list/main/1P_addon_effect_weapons.json",
 		},
+		{
+			"scriptName":"1P_loy_krathong",
+			"path":"somsoo1234/license_list/main/1P_loy_krathong.json",
+		},
 	]
 }
