@@ -40,5 +40,9 @@
 			"scriptName":"1P_airdrop.ducky",
 			"path":"somsoo1234/license_list/main/1P_airdrop.ducky.json",
 		},
+		{
+			"scriptName":"1P_over_level",
+			"path":"somsoo1234/license_list/main/1P_over_level.json",
+		},
 	]
 }
