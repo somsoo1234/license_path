@@ -36,5 +36,9 @@
 			"scriptName":"1P_loy_krathong",
 			"path":"somsoo1234/license_list/main/1P_loy_krathong.json",
 		},
+		{
+			"scriptName":"1P_airdrop.ducky",
+			"path":"somsoo1234/license_list/main/1P_airdrop.ducky.json",
+		},
 	]
 }
