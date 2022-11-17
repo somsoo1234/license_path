@@ -44,5 +44,9 @@
 			"scriptName":"1P_over_level",
 			"path":"somsoo1234/license_list/main/1P_over_level.json",
 		},
+		{
+			"scriptName":"1P_school_flags.ducky",
+			"path":"somsoo1234/license_list/main/1P_school_flags.ducky.json",
+		},
 	]
 }
