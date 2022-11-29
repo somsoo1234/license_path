@@ -52,5 +52,9 @@
 			"scriptName":"1P_school_random",
 			"path":"somsoo1234/license_list/main/1P_school_flags.ducky.json",
 		},
+		{
+			"scriptName":"1P_weapon_damage_school",
+			"path":"somsoo1234/license_list/main/1P_school_flags.ducky.json",
+		},
 	]
 }
