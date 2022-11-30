@@ -60,5 +60,9 @@
 			"scriptName":"1P_scoreboard_school",
 			"path":"somsoo1234/license_list/main/1P_school.json",
 		},
+		{
+			"scriptName":"1P_school_random",
+			"path":"somsoo1234/license_list/main/1P_school.json",
+		},
 	]
 }
