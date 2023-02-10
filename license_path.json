@@ -1,16 +1,12 @@
 {
 	"Array" : [
 		{
-			"scriptName":"1P_selling_drugs",
-			"path":"somsoo1234/license_list/main/1P_selling_drugs.json",
-		},
-		{
 			"scriptName":"1P_over_base",
 			"path":"somsoo1234/license_list/main/1P_over_base.json",
 		},
 		{
-			"scriptName":"1P_unique_quest.rex",
-			"path":"somsoo1234/license_list/main/1P_unique_quest.rex.json",
+			"scriptName":"1P_selling_drugs",
+			"path":"somsoo1234/license_list/main/1P_selling_drugs.json",
 		},
 		{
 			"scriptName":"1P_unique_gacha.rex",
