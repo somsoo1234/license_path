@@ -1,14 +1,6 @@
 {
 	"Array" : [
 		{
-			"scriptName":"1P_over_base",
-			"path":"somsoo1234/license_list/main/1P_over_base.json",
-		},
-		{
-			"scriptName":"1P_selling_drugs",
-			"path":"somsoo1234/license_list/main/1P_selling_drugs.json",
-		},
-		{
 			"scriptName":"1P_test_drift",
 			"path":"somsoo1234/license_list/main/1P_test_drift.json",
 		},
@@ -76,5 +68,14 @@
 			"scriptName":"1P_unique_gacha.rex",
 			"path":"teerawat-kruelit/1P_whitelist.rex/main/1P_unique_gacha.rex.json",
 		},
+		{
+			"scriptName":"1P_selling_drugs",
+			"path":"somsoo1234/license_list/main/1P_selling_drugs.json",
+		},
+		
+		{
+			"scriptName":"1P_over_base",
+			"path":"somsoo1234/license_list/main/1P_over_base.json",
+		}
 	]
 }
