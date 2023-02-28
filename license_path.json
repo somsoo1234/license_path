@@ -72,6 +72,10 @@
 			"scriptName":"1P_selling_drugs",
 			"path":"somsoo1234/license_list/main/1P_selling_drugs.json",
 		},
+		{
+			"scriptName":"1P_repair_vehicles",
+			"path":"somsoo1234/license_list/main/1P_repair_vehicles.json",
+		},
 		
 		{
 			"scriptName":"1P_over_base",
