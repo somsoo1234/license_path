@@ -76,6 +76,10 @@
 			"scriptName":"1P_repair_vehicles",
 			"path":"somsoo1234/license_list/main/1P_repair_vehicles.json",
 		},
+		{
+			"scriptName":"1P_bacon_crafting",
+			"path":"somsoo1234/license_list/main/1P_bacon_crafting.json",
+		},
 		
 		{
 			"scriptName":"1P_over_base",
