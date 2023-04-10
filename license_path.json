@@ -80,6 +80,10 @@
 			"scriptName":"1P_bacon_crafting",
 			"path":"somsoo1234/license_list/main/1P_bacon_crafting.json",
 		},
+		{
+			"scriptName":"1P_house_robing",
+			"path":"somsoo1234/license_list/main/1P_house_robing.json",
+		},
 		
 		{
 			"scriptName":"1P_over_base",
